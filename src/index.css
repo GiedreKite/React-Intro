@@ -1,0 +1,5 @@
+body, 
+body*{
+  display: block;
+  padding: 0;
+}
